@@ -122,12 +122,14 @@ $ git commit -m 'First Commit :)'
 
 
 ### Step 5
-git remote add origin https://github.com/Ubhumma/unit1-git-practice.git
-git branch -M main
-git push -u origin main
+$ git remote add origin https://github.com/Ubhumma/unit1-git-practice.git
+$ git branch -M main
+$ git push -u origin main
 
 ### Step 6
-
+$ touch menu.txt
+$ ls
+$ git status
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
