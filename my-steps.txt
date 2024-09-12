@@ -135,5 +135,6 @@ $ git commit -m 'Starting menu and fixed "my-steps" being empty'
 $ git push 
 $ git status
 
+
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
